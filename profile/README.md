@@ -1,4 +1,4 @@
-<h1 align="center">🌙 ByteOfDream</h1>
+<h1 align="center">🌙 DreamyByte</h1>
 
 <p align="center">
 Building ideas, experiments and digital dreams.
